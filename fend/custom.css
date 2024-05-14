@@ -1,0 +1,46 @@
+body {
+    font-family: 'DejaVu Sans', sans-serif;
+}
+
+.m-color {
+    color:#001f5a;
+}
+
+.grad-b {
+    background-image: url("images/background.png");
+}
+
+.ti-20 {
+    text-indent: 40px;
+}
+
+.input-icons span {
+    position: absolute;
+}
+
+.icon {
+    margin-top: 10px;
+    z-index: 99;
+    margin-left: 13px;
+    background-color: rgb(216 145 30);
+    width: 20px;
+    height: 30px;
+    color: white;
+    justify-content: center;
+}
+
+.mw-110 {
+    min-width: 110px;
+}
+
+.mw-70 {
+    min-width: 70px;
+}
+
+.fs-sm {
+    font-size: smaller;
+}
+
+.wp-100 {
+    width: 100%;
+}
