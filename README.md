@@ -1,9 +1,8 @@
-# Project LegalMatch-A
+# LegalMatch-A
 
-
-### Structure
-
-* fend/ - Front-end resources 
+### Project Structure
+* docs/ - Requirements documents
+* fend/ - Front-end Structure 
     *   images/
     *   js/
     *   index.html 
