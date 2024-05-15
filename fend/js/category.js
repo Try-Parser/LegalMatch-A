@@ -10,7 +10,6 @@ $('.mcategory').click(() => {
         $(".first-row").append(`<div><a link class="text-decoration-none action-category">Law Case ` + Math.random() * 100 + `</a></div>`)
         $(".second-row").append(`<div><a link class="text-decoration-none action-category">Law Case ` + Math.random() * 100 + `</a></div>`)
     }
-
     
     $(".action-category").click((evt) => {
         $('#otherCategory').modal('hide');
